@@ -73,3 +73,15 @@
   padding: 20px;
   background-color: #041e0a;
 }
+
+#feature-box {
+  padding: 20px;
+}
+
+#feature-container {
+  width: 80%;
+  margin: auto;
+  border: solid;
+  border-color: black;
+  color: black;
+}
