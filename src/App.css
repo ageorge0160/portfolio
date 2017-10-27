@@ -27,9 +27,15 @@
 }
 
 .App-title {
-  font-size: 3.5em;
+  font-size: 4em;
   color: white;
-  margin-top: 600px;
+  margin-top: 475px;
+  text-shadow: 0 0 40px black;
+}
+
+.tagline {
+  font-size: 2em;
+  color: white;
   text-shadow: 0 0 40px black;
 }
 
@@ -43,4 +49,14 @@
   height: 1100px;
   background-image: url('images/home.jpg');
   background-size: cover;
+}
+
+.large-hr {
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+.small-hr {
+  margin-left: 180px;
+  margin-right: 180px;
 }
