@@ -60,3 +60,16 @@
   margin-left: 180px;
   margin-right: 180px;
 }
+
+#about-container {
+  width: 80%;
+  margin: auto;
+  border: solid;
+  border-color: white;
+  color: white;
+}
+
+#about-box {
+  padding: 20px;
+  background-color: #041e0a;
+}
