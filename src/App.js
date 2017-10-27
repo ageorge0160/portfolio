@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
-import Header from './containers/header';
+import Home from './containers/home';
 import Navbar from './containers/navbar';
 import About from './containers/about';
 
@@ -10,7 +10,7 @@ class App extends Component {
     return (
       <div className="App">
         <Navbar />
-        <Header />
+        <Home />
         <About />
       </div>
     );

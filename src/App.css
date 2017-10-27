@@ -2,20 +2,16 @@
   text-align: center;
 }
 
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 80px;
-}
-
-.App-header {
+.home {
   background-color: #555;
-  height: 900px;
+  height: 1100px;
   padding: 20px;
-  color: white;
 }
 
 .App-title {
-  font-size: 1.5em;
+  font-size: 3.5em;
+  color: white;
+  margin-top: 600px;
 }
 
 .App-intro {
