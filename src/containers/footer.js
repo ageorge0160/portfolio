@@ -4,4 +4,4 @@ const Footer = () =>
   <div id='footer-container'>
   </div>
 
-export default Footer
+export default Footer;

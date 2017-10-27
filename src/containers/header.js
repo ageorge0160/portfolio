@@ -5,4 +5,4 @@ const Header = () =>
     <h1 className="App-title">Amanda Lynn George</h1>
   </header>
 
-export default Header
+export default Header;
