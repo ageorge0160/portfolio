@@ -4,7 +4,7 @@ const FeatureWork = () =>
   <div id='feature-box'>
     <div id='feature-container'>
       <h1>Feature Work</h1>
-      <hr className='small-hr' />
+      <hr className='large-hr' />
       <div className='project row'>
         <div className='col'>
           <img src='images/blog.png' alt='blog' width='200px'/>
