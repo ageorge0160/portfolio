@@ -95,17 +95,26 @@ p {
   margin: auto;
 }
 
-.project-image {
-  height: 100%;
-  width: 50%;
-  object-fit: contain;
-  float: left;
-  display: block;
+.row {
+  display: flex;
+}
+
+.col {
+  flex: 1;
+  padding: 1em;
 }
 
 .project-description {
   width: 50%;
   border: 1px solid black;
-  overflow: hidden;
   padding: 10px;
+}
+
+.blog-image {
+  background-image: url('images/blog.png');
+}
+
+.blog-image img {
+  vertical-align: middle;
+
 }
