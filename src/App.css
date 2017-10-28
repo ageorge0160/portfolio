@@ -93,6 +93,7 @@ p {
   min-height: 300px;
   overflow: hidden;
   margin: auto;
+  margin-top: 20px;
 }
 
 .row {
