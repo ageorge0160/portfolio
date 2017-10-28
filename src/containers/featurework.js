@@ -14,7 +14,7 @@ const FeatureWork = () =>
           <hr className='small-hr' />
           <p>Project description</p>
         </div>
-      </div>  
+      </div>
     </div>
   </div>
 

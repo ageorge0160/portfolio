@@ -2,6 +2,10 @@
   text-align: center;
 }
 
+p {
+  text-align: left;
+}
+
 .home {
   background-color: #555;
   height: 1100px;
@@ -81,7 +85,27 @@
 #feature-container {
   width: 80%;
   margin: auto;
-  border: solid;
-  border-color: black;
   color: black;
+}
+
+.project {
+  width: 90%;
+  min-height: 300px;
+  overflow: hidden;
+  margin: auto;
+}
+
+.project-image {
+  height: 100%;
+  width: 50%;
+  object-fit: contain;
+  float: left;
+  display: block;
+}
+
+.project-description {
+  width: 50%;
+  border: 1px solid black;
+  overflow: hidden;
+  padding: 10px;
 }
