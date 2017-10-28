@@ -4,6 +4,7 @@ import Navbar from './containers/navbar';
 import About from './containers/about';
 import Background from './containers/background';
 import FeatureWork from './containers/featurework';
+import Footer from './containers/footer.js';
 
 class App extends Component {
   render() {
@@ -13,6 +14,7 @@ class App extends Component {
         <Background />
         <About />
         <FeatureWork />
+        <Footer />
       </div>
     );
   }
